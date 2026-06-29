@@ -1,0 +1,4 @@
+# Colab already ships torch + CUDA + numpy + matplotlib, so they are not pinned
+# here. Install with:  pip install -r requirements.txt
+sbi
+h5py

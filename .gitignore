@@ -1,0 +1,14 @@
+# run outputs
+optuna_run/
+*.pt
+*.png
+run_info.txt
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# data is large — keep HDF5 out unless you deliberately push it (see README)
+# comment the next line out if you DO want to commit the stacks
+# *.h5
